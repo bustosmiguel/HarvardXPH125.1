@@ -245,6 +245,12 @@ lines(n, n*(n+1)/2)
 # split, cut, quantile, reduce,
 # identical, unique, and many others.
 
+# Functions that are typically used instead of for loops in R:
+# apply, sapply, tapply, and mapply
+# Other functions that are widely used are 
+# split, cut, quantile, reduce,
+# identical, unique, and many others.
+
 
 
 
